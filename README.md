@@ -1,5 +1,5 @@
 # DataAnalysis1
-Data Analysis using Python and sklearn and smote. A customer (cell phone company) wants to determine the probable causes of customers leaving their company. 
+Data Analysis using Python, sklearn and smote. A customer (cell phone company) wants to determine the probable causes of customers leaving their company. 
 
 Dataset file:
 # churn.arff 
