@@ -4,6 +4,8 @@ Data Analysis using Python, sklearn and smote. A customer (cell phone company) w
 Dataset file:
 # churn.arff 
 ![histograms](https://user-images.githubusercontent.com/62077185/106337992-be0f7a80-6260-11eb-9a6d-f387eeeae74c.png)
+
+
 These are 3 jupyter notebook files with successive data analysis. The first file retains all attributes from the dataset. The third and final analysis is on the selected attributes only
 # FinalProjectDB1.ipynb
 # FinalProjectDB2.ipynb
